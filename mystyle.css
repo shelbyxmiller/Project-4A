@@ -26,10 +26,10 @@ body {
   font-size: 40px;
   background: repeating-linear-gradient(
   45deg,
-  #b8803d,
-  #c29053 10px,
-  #c29053 10px,
-  #b8803d 20px
+  #dd9c8b,
+  #e4a08d 10px,
+  #e4a08d 10px,
+  #dd9c8b 20px
 );
 }
 
@@ -44,7 +44,7 @@ body {
   font-family: wishleman;
   text-shadow: 2px 2px 4px #66451b;
   outline-style: dashed;
-  background-color: #b8803d; opacity: 0.9;
+  background-color: #b47a6a; opacity: 0.9;
 }
 
 #lyric {
@@ -58,7 +58,7 @@ body {
   font-family: Magazine;
   text-shadow: 2px 2px 4px #66451b;
   outline-style: double;
-  background-color: #b8803d; opacity: 0.9;
+  background-color: #b47a6a; opacity: 0.9;
 }
 
 #song{
@@ -85,7 +85,7 @@ margin-top: 20px;
   margin-right: auto;
   margin-bottom: 20px;
   margin-top: -50px;
-  background: #d6a876; opacity: 0.9;
+  background: #b47a6a; opacity: 0.9;
   text-align: center;
   border-radius: 25px;
   border: 9px; solid #9c9170;
@@ -103,7 +103,7 @@ margin-top: 20px;
   margin-right: auto;
   margin-bottom: 20px;
   margin-top: -10px;
-  background: #d6a876; opacity: 0.9;
+  background: #b47a6a; opacity: 0.9;
   text-align: center;
   border-radius: 25px;
   border: 9px; solid #9c9170;
@@ -121,7 +121,7 @@ margin-top: 20px;
   margin-right: auto;
   margin-bottom: 20px;
   margin-top: -10px;
-  background: #d6a876; opacity: 0.9;
+  background: #b47a6a; opacity: 0.9;
   text-align: center;
   border-radius: 25px;
   border: 9px; solid #9c9170;
@@ -139,7 +139,7 @@ margin-top: 20px;
   margin-right: auto;
   margin-bottom: 20px;
   margin-top: -10px;
-  background: #d6a876; opacity: 0.9;
+  background: #b47a6a; opacity: 0.9;
   text-align: center;
   border-radius: 25px;
   border: 9px; solid #9c9170;
@@ -211,13 +211,13 @@ margin-top: 20px;
 
 a {
   color: #fff4e6;
-  background: #8a5b27;
+  background: #b47a6a;
   margin: 10px;
   margin-bottom: 50px;
   text-align: center;
   display: block;
   border-radius: 25px;
-  border: 3px solid #4f3417;
+  border: 3px solid #7a574d;
   font-size: 20px;
   font-family: linux_libertine;
   font-style: italic;
@@ -228,7 +228,7 @@ a {
 a:link {
   text-decoration: none;
   color: #fff4e6;
-  background: #8a5b27;
+  background: #b47a6a;
 }
 a:visited {
   text-decoration: none;
@@ -236,12 +236,12 @@ a:visited {
 a:hover {
   text-decoration: underline;
   color: #fff4e6;
-  background: #4f3417;
+  background: #7a574d;
 }
 a:active {
   text-decoration: underline;
   color: #FFF;
-  background: #66451b;
+  background: #7a574d;
 }
 
 #bottom{
