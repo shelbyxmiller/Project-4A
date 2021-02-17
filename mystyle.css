@@ -2,22 +2,22 @@
 
 @font-face {
   font-family: wishleman;
-  src: url(fonts/wishleman/wishleman.ttf);
+  src: url(Fonts/wishleman/wishleman.ttf);
 }
 
 @font-face {
   font-family: magazine;
-  src: url(fonts/magazine/Magazine.ttf);
+  src: url(Fonts/magazine/Magazine.ttf);
 }
 
 @font-face {
   font-family: edition;
-  src: url(fonts/EDITION_.ttf);
+  src: url(Fonts/EDITION_.ttf);
 }
 
 @font-face {
   font-family: made_bon_voyage;
-  src: url(fonts/made_bon_voyage/MADE Bon Voyage Thin PERSONAL USE.otf);
+  src: url(Fonts/made_bon_voyage/MADE Bon Voyage Thin PERSONAL USE.otf);
 }
 /* FONTS *************/
 
